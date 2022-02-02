@@ -31,7 +31,7 @@ Procedure:
     4. Define a function to predict the DNA sequence and gives its accuracy.
     
 Usage:
-    python RE1_resit.py
+    python script_python.py
 
 """
 #%%
