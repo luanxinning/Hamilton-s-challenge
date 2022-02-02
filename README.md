@@ -21,4 +21,5 @@ B) The predicted sequence is too long (in this case, I set it to be no more than
 After several tests, I find that if the length of reads is long enough(the length of reads are at least one fifth of the length of simulated sequences, and it should be bigger than about 5 or 6), the accuracy of the prediction can be 100%. If not, the program will tell the user to increase the length of reads(bases).
 
 ## terminal screenshot
-![](https://github.com/luanxinning/Hamilton-s-challenge/raw/master/Hamilton-s-challenge/output_in_terminal.png)
+![output_in_terminal](https://user-images.githubusercontent.com/90717695/152158894-6f7a581e-6e80-4ad7-b8c5-f1d20d152ef4.png)
+
